@@ -62,9 +62,9 @@ These products can be easily uploaded to the marketplace through the app for sel
 
 ## Author
 
-- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
+- [@vajradhar13]((https://github.com/vajradhar13/Resculpt-main))
 - **Repositories :**
-https://github.com/saiabhiramjaini/ReSculpt
+https://github.com/vajradhar13/Resculpt-main
 
 ## Feedback 
 
