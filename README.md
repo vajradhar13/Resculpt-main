@@ -24,14 +24,6 @@ Artisans can sell the creative products they make through a dedicated marketplac
 
 **Backend** : NodeJS, ExpressJS, Prisma, PostgreSQL, TypeScript 
 
-## Workflow
-
-![WhatsApp Image 2024-05-23 at 23 28 59](https://github.com/saiabhiramjaini/portfolio/assets/115941546/c9ad8cef-c089-484b-877b-9c8572639ea3)
-
-
-
-![black1](https://github.com/saiabhiramjaini/Resculpt-For_Artisans/assets/115941546/90e077d8-2000-4aae-bb22-ac76273d5e0e)
-
 ## Demo video
 
 [![YouTube Video](https://img.youtube.com/vi/xX8E7E1Jx2c/0.jpg)](https://www.youtube.com/watch?v=xX8E7E1Jx2c)
@@ -62,12 +54,12 @@ These products can be easily uploaded to the marketplace through the app for sel
 
 ## Author
 
-- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
+- [@vajradhar13]((https://github.com/vajradhar13/Resculpt-main))
 - **Repositories :**
-https://github.com/saiabhiramjaini/ReSculpt
+https://github.com/vajradhar13/Resculpt-main
 
 ## Feedback 
 
-If you have any feedback, please reach out me at abhiramjaini28@gmail.com
+If you have any feedback, please reach out me at vajradhar13@gmail.com
 
 
