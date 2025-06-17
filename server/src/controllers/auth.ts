@@ -115,7 +115,11 @@ export const forgotPassword = async (req: Request, res: Response) => {
       process.env.JWT_SECRET!,
       { expiresIn: "1d" }
     );
-    res.cookie("token", token, { httpOnly: true });
+    res.cookie("token", token, {
+      httpOnly: true,
+      domain: "https://resculpt-main.vercel.app",
+      sameSite: "strict",
+    });
     const text = `'http://localhost:5173/resetPassword/${token}`;
     const emailResult = await sendEmail(email, "Reset password", text);
 
