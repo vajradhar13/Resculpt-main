@@ -14,7 +14,7 @@ require("dotenv").config();
 
 app.use(
   cors({
-    origin: ["https://resculpt-web-app.vercel.app", "http://localhost:5173"],
+    origin: ["https://resculpt-main.vercel.app", "http://localhost:5173"],
     credentials: true,
   })
 );
