@@ -51,6 +51,8 @@ export const Signup = () => {
 
       // Successful signup
       if (response.data.msg === "User created Successfully") {
+        console.log(response.data);
+
         window.localStorage.setItem("loggedIn", "true");
         toast.success("Account created successfully! Redirecting...", {
           position: "top-center",
