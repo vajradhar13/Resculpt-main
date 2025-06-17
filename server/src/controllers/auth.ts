@@ -25,7 +25,7 @@ export const signup = async (req: Request, res: Response) => {
       return res.json({ msg: "Passwords do not match" });
     }
 
-    const user = await User.findFirst({
+    const user = await User.findUnique({
       where: {
         email,
       },
